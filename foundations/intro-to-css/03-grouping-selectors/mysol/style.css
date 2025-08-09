@@ -1,0 +1,16 @@
+/* styles.css for index.html */
+
+.cl1,
+.cl2 {
+    font-size: 28px;
+    font: Helvetica, Times, sans-serif;
+}
+
+.cl1 {
+    color: white;
+    background-color: black;
+}
+
+.cl2 {
+    background-color: yellow;
+}
